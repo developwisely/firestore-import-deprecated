@@ -1,0 +1,30 @@
+{
+  "fruits": [
+    {
+      "name": "apple",
+      "color": "green"
+    },
+    {
+      "name": "apple",
+      "color": "red"
+    },
+    {
+      "name": "grape",
+      "color": "green"
+    },
+    {
+      "name": "grape",
+      "color": "red"
+    }
+  ],
+  "companies": [
+    {
+      "name": "apple",
+      "products": ["laptop", "phone"]
+    },
+    {
+      "name": "google",
+      "products": ["storage", "search", "email"]
+    }
+  ]
+}

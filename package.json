@@ -1,0 +1,22 @@
+{
+  "name": "firestore-import",
+  "version": "1.0.0",
+  "description": "A simple JavaScript app to import basic JSON data to Firestore.",
+  "main": "import.js",
+  "scripts": {
+    "import": "node import.js"
+  },
+  "keywords": [
+    "firestore",
+    "firebase",
+    "google",
+    "data",
+    "json",
+    "import"
+  ],
+  "author": "Stephen Riley",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^6.2.4"
+  }
+}
