@@ -6,7 +6,7 @@ This is a simple JavaScript app to import basic JSON data to Firestore.
 1. `npm install`
 2. Edit `config.js` with **API_KEY**, **AUTH_DOMAIN**, and **PROJECT_ID** from your Firestore project.
 3. Place your data inside of `data.json` in a similar format.
-```json
+```js
 {
     // these are collections
     "exampleCollection": [
